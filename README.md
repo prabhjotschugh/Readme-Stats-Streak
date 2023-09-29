@@ -5,7 +5,7 @@
 2. Replace the value after `?user=` with your GitHub username
 
 ```md
-[![GitHub Streak](https://readme-stats-streak.vercel.app?user=prabhjotschugh)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-stats-streak-prabhjotschugh.vercel.app?user=prabhjotschugh)](https://git.io/streak-stats)
 ```
 
 3. Star the repo 😄
